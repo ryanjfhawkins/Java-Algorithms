@@ -1,6 +1,3 @@
-package ca.uwo.eng.se2205.lab6;
-
-
 public class SelectionSorter implements Sorter {
 
     @Override
